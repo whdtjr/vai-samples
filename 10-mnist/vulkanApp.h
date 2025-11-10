@@ -1193,7 +1193,7 @@ inline Submitting operator<<(Queue queue, CommandBuffer cmdBuffer)
 
 inline Submitting operator<<(Queue queue, std::vector<CommandBuffer>&& cmdBuffers)
 {
-    return Submitting(queue, {{}, std::move(cmdBuffers), {}});
+    return Submitting(queue, std::make_tuple(std::vector<SemaphoreStage>{}, std::move(cmdBuffers), std::vector<SemaphoreStage>{}));
 }
 
 inline Submitting operator<<(Queue queue, SubmissionBatchInfo&& batch)

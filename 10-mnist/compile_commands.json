@@ -1,0 +1,98 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-DPROJECT_CURRENT_DIR=\"/home/js/workspace/vai-samples/10-mnist\"",
+      "-isystem",
+      "/home/js/workspace/vcpkg/installed/x64-linux/include",
+      "-std=gnu++20",
+      "-c",
+      "-o",
+      "CMakeFiles/10-mnist.dir/main.cpp.o",
+      "/home/js/workspace/vai-samples/10-mnist/main.cpp"
+    ],
+    "directory": "/home/js/workspace/vai-samples/10-mnist/build",
+    "file": "/home/js/workspace/vai-samples/10-mnist/main.cpp",
+    "output": "/home/js/workspace/vai-samples/10-mnist/build/CMakeFiles/10-mnist.dir/main.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-DPROJECT_CURRENT_DIR=\"/home/js/workspace/vai-samples/10-mnist\"",
+      "-isystem",
+      "/home/js/workspace/vcpkg/installed/x64-linux/include",
+      "-std=gnu++20",
+      "-c",
+      "-o",
+      "CMakeFiles/10-mnist.dir/test.cpp.o",
+      "/home/js/workspace/vai-samples/10-mnist/test.cpp"
+    ],
+    "directory": "/home/js/workspace/vai-samples/10-mnist/build",
+    "file": "/home/js/workspace/vai-samples/10-mnist/test.cpp",
+    "output": "/home/js/workspace/vai-samples/10-mnist/build/CMakeFiles/10-mnist.dir/test.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-DPROJECT_CURRENT_DIR=\"/home/js/workspace/vai-samples/10-mnist\"",
+      "-isystem",
+      "/home/js/workspace/vcpkg/installed/x64-linux/include",
+      "-std=gnu++20",
+      "-c",
+      "-o",
+      "CMakeFiles/10-mnist.dir/vulkanApp.cpp.o",
+      "/home/js/workspace/vai-samples/10-mnist/vulkanApp.cpp"
+    ],
+    "directory": "/home/js/workspace/vai-samples/10-mnist/build",
+    "file": "/home/js/workspace/vai-samples/10-mnist/vulkanApp.cpp",
+    "output": "/home/js/workspace/vai-samples/10-mnist/build/CMakeFiles/10-mnist.dir/vulkanApp.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-DPROJECT_CURRENT_DIR=\"/home/js/workspace/vai-samples/10-mnist\"",
+      "-isystem",
+      "/home/js/workspace/vcpkg/installed/x64-linux/include",
+      "-std=gnu++20",
+      "-c",
+      "-o",
+      "CMakeFiles/10-mnist.dir/spirvHelpers.cpp.o",
+      "/home/js/workspace/vai-samples/10-mnist/spirvHelpers.cpp"
+    ],
+    "directory": "/home/js/workspace/vai-samples/10-mnist/build",
+    "file": "/home/js/workspace/vai-samples/10-mnist/spirvHelpers.cpp",
+    "output": "/home/js/workspace/vai-samples/10-mnist/build/CMakeFiles/10-mnist.dir/spirvHelpers.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-DPROJECT_CURRENT_DIR=\"/home/js/workspace/vai-samples/10-mnist\"",
+      "-isystem",
+      "/home/js/workspace/vcpkg/installed/x64-linux/include",
+      "-std=gnu++20",
+      "-c",
+      "-o",
+      "CMakeFiles/10-mnist.dir/stb_image.cpp.o",
+      "/home/js/workspace/vai-samples/10-mnist/stb_image.cpp"
+    ],
+    "directory": "/home/js/workspace/vai-samples/10-mnist/build",
+    "file": "/home/js/workspace/vai-samples/10-mnist/stb_image.cpp",
+    "output": "/home/js/workspace/vai-samples/10-mnist/build/CMakeFiles/10-mnist.dir/stb_image.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-DPROJECT_CURRENT_DIR=\"/home/js/workspace/vai-samples/10-mnist\"",
+      "-isystem",
+      "/home/js/workspace/vcpkg/installed/x64-linux/include",
+      "-std=gnu++20",
+      "-c",
+      "-o",
+      "CMakeFiles/10-mnist.dir/jsonParser.cpp.o",
+      "/home/js/workspace/vai-samples/10-mnist/jsonParser.cpp"
+    ],
+    "directory": "/home/js/workspace/vai-samples/10-mnist/build",
+    "file": "/home/js/workspace/vai-samples/10-mnist/jsonParser.cpp",
+    "output": "/home/js/workspace/vai-samples/10-mnist/build/CMakeFiles/10-mnist.dir/jsonParser.cpp.o"
+  }
+]

@@ -1,0 +1,3 @@
+/home/js/workspace/vai-samples/10-mnist/build/CMakeFiles/10-mnist.dir
+/home/js/workspace/vai-samples/10-mnist/build/CMakeFiles/edit_cache.dir
+/home/js/workspace/vai-samples/10-mnist/build/CMakeFiles/rebuild_cache.dir

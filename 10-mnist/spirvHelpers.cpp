@@ -3,7 +3,7 @@
 #include <glslang/Include/glslang_c_interface.h>
 #include <glslang/Public/resource_limits_c.h>
 #include <vulkan/vulkan_core.h>
-#include <spirv_reflect.h>
+#include <spirv-reflect/spirv_reflect.h>
 #include "templateHelper.h"
 #include "vulkanApp.h"
 

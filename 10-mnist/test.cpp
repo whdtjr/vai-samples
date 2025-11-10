@@ -2,7 +2,7 @@
 #include "neuralNodes.h"
 #include "jsonParser.h"
 #include "timeChecker.hpp"
-#include <stb/stb_image.h>
+#include <stb_image.h>
 #include <cstring>  // memcpy
 
 
@@ -84,7 +84,7 @@ Tensor eval_mnist(const std::vector<float>& srcImage, const JsonParser& json) //
 void test()
 {
     const uint32_t channels = 1;
-    auto [srcImage, width, height] = readImage<channels>(PROJECT_ROOT_DIR"/data/0.png");
+    auto [srcImage, width, height] = readImage<channels>(PROJECT_CURRENT_DIR"/data/0.png");
     _ASSERT(width == 28 && height == 28);
     _ASSERT(width * height * channels == srcImage.size());
 

@@ -1,3 +1,4 @@
+#include "vulkanApp.h"
 #include <GLFW/glfw3.h>
 #include <array>
 #include <deque>
@@ -9,7 +10,6 @@
 #include <cstring>  // strcmp, memcpy
 #include "error.h"
 #include "templateHelper.h"
-#include "vulkanApp.h"
 
 
 std::vector<uint32_t> glsl2spv(VkShaderStageFlags stage, const char* shaderSource);
