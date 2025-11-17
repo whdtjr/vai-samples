@@ -1,0 +1,2 @@
+/usr/bin/ar qc libspirv-reflect-static.a "CMakeFiles/spirv-reflect-static.dir/home/js/workspace/vai-samples/external/SPIRV-Reflect/spirv_reflect.c.o"
+/usr/bin/ranlib libspirv-reflect-static.a

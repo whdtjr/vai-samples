@@ -1,0 +1,4 @@
+/home/js/workspace/vai-samples/102-ResNet-JongSeok/build/CMakeFiles/102-ResNet-JongSeok.dir
+/home/js/workspace/vai-samples/102-ResNet-JongSeok/build/CMakeFiles/spirv-reflect-static.dir
+/home/js/workspace/vai-samples/102-ResNet-JongSeok/build/CMakeFiles/edit_cache.dir
+/home/js/workspace/vai-samples/102-ResNet-JongSeok/build/CMakeFiles/rebuild_cache.dir
